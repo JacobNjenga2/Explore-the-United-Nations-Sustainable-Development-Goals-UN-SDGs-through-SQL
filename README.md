@@ -1,0 +1,2 @@
+# Explore-the-United-Nations-Sustainable-Development-Goals-UN-SDGs-through-SQL
+This repository offers a hands-on journey, leveraging SQL queries to analyze and derive insights from UN SDG datasets. Engage with interactive SQL scripts, uncover patterns, and contribute to the global conversation on sustainable development. Elevate your SQL and data analysis skills in the context of impactful societal goals.
